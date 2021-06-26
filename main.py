@@ -1,3 +1,7 @@
+#Kentel Technologies
+#Author : Efe Akaröz
+
+
 from kivymd.app import MDApp
 from kivy.uix.screenmanager import Screen 
 from kivymd.uix.toolbar import MDToolbar
